@@ -1,6 +1,5 @@
 ### Hi I’m Alar 👋
 
-<!--
 **Welcome to my profile  ✨
 
 I'm a fresh graduate student specializing in data analysis. I am passionate about leveraging the power of data to drive meaningful insights and make informed decisions.
